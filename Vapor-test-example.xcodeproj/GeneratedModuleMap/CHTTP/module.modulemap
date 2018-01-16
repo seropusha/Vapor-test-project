@@ -1,0 +1,4 @@
+module CHTTP {
+    umbrella "/Users/valeriyaponamarenko/Documents/Projects/Vapor-test-project/.build/checkouts/engine.git-3311994267206676365/Sources/CHTTP/include"
+    export *
+}
