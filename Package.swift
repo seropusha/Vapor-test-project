@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Hello",
+    name: "Vapor-test-example",
     products: [
         .library(name: "App", targets: ["App"]),
         .executable(name: "Run", targets: ["Run"])
